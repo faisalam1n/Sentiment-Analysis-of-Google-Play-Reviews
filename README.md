@@ -3,10 +3,12 @@
 Sentiment analysis of Google play reviews using NLTK, and trained 5 models and checked the accuracy.
 
 ## Model Trained:
-Logistic Regression
-Decision Tree Classifier
-Random Forest Classifier
-KNeighbors Classifier
-SVC 
+1. Logistic Regression
+2. Decision Tree Classifier
+3. Random Forest Classifier
+4. KNeighbors Classifier
+5. SVC 
 
-This dataset was taken from Kaggle.
+
+
+The dataset was taken from Kaggle.
